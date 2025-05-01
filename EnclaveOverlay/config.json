@@ -1,0 +1,9 @@
+﻿{
+	"fontColor": "#FFFFFF",
+	"fontSize": 12,
+	"fontLocation": {
+		"x": 10,
+		"y": 10
+	},
+	"hotkey": "Pause"
+}
