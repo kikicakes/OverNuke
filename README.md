@@ -3,3 +3,4 @@ Answer; yes after a day of back and forth telling it what was going wrong, event
 and grabbed the codes, displayed them on the screen, added a config file, and a toggle hotkey.
 
 
+Note: This was actually removed from nexusmods.com because even the staff are too incompetent to read the description and see the source code linked directly here, and examine/compile it themselves.
